@@ -15,5 +15,8 @@ by Dataquest.io for Data Scientist course of 11 modules.
 7. imdb - Internet Movie Database (Includes movies directed in many languages like Japanese, Spanish, English, etc.)
 8. US Birth Rates by Social Security Administration
 9. Census & National Center for Health Statistics (CDC - NCHS)
+10. Thanksgiving Poll Data in 2015 by FiveThirtyEight
 
 # Cetificates are added on my linkedin profile : www.linkedin.com/in/anirtek
+
+# Dataquest.io profile : https://www.dataquest.io/profile/atekade1
